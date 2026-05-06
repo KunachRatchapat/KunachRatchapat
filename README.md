@@ -2,5 +2,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================================
 
 * 🌍  I'm based in Thailand
-* 🧠  I'm currently learning Machine Learning , n8n and Programming Skills
+
 
